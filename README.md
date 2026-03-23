@@ -1,10 +1,12 @@
-# 嗨，我是 shinshinchang 👋
+# 大家好，我是 shinshinchang (SSC) 👋
 
 ### 👨‍💻 關於我
-- 🎓 目前就讀於 **國立政治大學 (NCCU) 管理資訊學系**
-- 🛠️ 熱衷於 **網頁開發 (Web Development)** 與 **機器學習 (Machine Learning)**
+- 🎓 目前就讀於 **國立政治大學 (NCCU) **
+- 🎓 **資訊管理學系(MIS)** X **人工智慧應用學程(BPAI)**
+- 🛠️ 醉心於 **軟體開發 (software Development)** 、 **機器學習 (Machine Learning)**、**量化分析 (Quant)**、**資訊安全（Cybersecurity)**
 - 🚀 最近正在開發一個結合 **LINE Messaging API** 與 **Gemini Pro AI** 的專案
-- 💡 曾參與政大校園 **「失物招領系統」** 的開發，負責後端與資料庫設計
+- 💡 正在開發政大校園 **「失物招領系統」** 的開發，負責後端與資料庫設計
+- 有一個可愛的女朋友
 
 ### 🛠️ 技能與工具
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,8 +19,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshinchang&layout=compact&theme=radical)
 
 ### 🎮 興趣
-- ⚔️ **League of Legends** (LOL)
-- 🌌 **米哈遊系列** (Genshin Impact / Honkai: Star Rail)
+-  **極速領域/QQ飛車**
+-  **League of Legends** (LOL)
+-  **荒野亂鬥** 
 
 <!--
 **shinshinchang/shinshinchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
