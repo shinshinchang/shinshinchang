@@ -1,7 +1,7 @@
 # 大家好，我是 shinshinchang (SSC) 👋
 
 ### 👨‍💻 關於我
-- 🎓 目前就讀於 **國立政治大學 (NCCU) **
+- 🎓 目前就讀於 **國立政治大學(NCCU)**
 - 🎓 **資訊管理學系(MIS)** X **人工智慧應用學程(BPAI)**
 - 🛠️ 醉心於 **軟體開發 (software Development)** 、 **機器學習 (Machine Learning)**、**量化分析 (Quant)**、**資訊安全（Cybersecurity)**
 - 🚀 最近正在開發一個結合 **LINE Messaging API** 與 **Gemini Pro AI** 的專案
