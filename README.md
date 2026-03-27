@@ -3,7 +3,7 @@
 ### 👨‍💻 關於我
 - 🎓 目前就讀於 **國立政治大學(NCCU)**
 - 🎓 **資訊管理學系(MIS)** X **人工智慧應用學程(BPAI)**
-- 🛠️ 醉心於 **軟體開發 (software Development)** 、 **機器學習 (Machine Learning)**、**量化分析 (Quant)**、**資訊安全（Cybersecurity)**
+- 🛠️ 醉心於 **軟體開發 (Software Development)** 、 **機器學習 (Machine Learning)**、**量化分析 (Quant)**、**資訊安全（Cybersecurity)**
 - 💡 昕力資訊股份有限公司 (合作專案)
 - 💡 政大校園 **「失物招領系統」** 開發，負責後端與資料庫設計
 - 有一個可愛的女朋友
