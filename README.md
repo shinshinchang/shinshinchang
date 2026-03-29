@@ -20,7 +20,10 @@
 ![SAS](https://img.shields.io/badge/SAS-00487F?style=for-the-badge&logo=sas&logoColor=white)
 
 ### 📊 GitHub 統計
+![shinshinchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinshinchang&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshinchang&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SSC?theme=radical&font=ABeeZee&ext=activity)
+
 
 ### 🎮 興趣
 -  **極速領域/QQ飛車**
