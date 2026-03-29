@@ -1,4 +1,5 @@
 # 大家好，我是 shinshinchang (SSC) 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Welcome+to+shinshinchang's+GitHub+!;Coding+is+life;Always+learning+new+things)
 
 ### 👨‍💻 關於我
 - 🎓 目前就讀於 **國立政治大學(NCCU)**
@@ -8,28 +9,33 @@
 - 💡 政大校園 **「失物招領系統」** 開發，負責後端與資料庫設計
 - 有一個可愛的女朋友
 
-### 🛠️ 技能與工具
+### 🛠️ 技能工具
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-00487F?style=for-the-badge&logo=sas&logoColor=white)
 
-### 📊 GitHub 統計
-![shinshinchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinshinchang&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshinchang&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/SSC?theme=radical&font=ABeeZee&ext=activity)
+### 📊 統計
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshinchang&layout=compact&theme=radical)\
+![LeetCode Stats](https://leetcard.jacoblin.cool/KYLESSC?theme=radical&font=ABeeZee)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinshinchang&theme=react-dark)
+<p align="left">
+  <a href="https://play.picoctf.org/users/SSC_Whitehat">
+    <img src="https://img.shields.io/badge/picoCTF-Learning_Progress-7E1B1B?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+</p>
 
 
 ### 🎮 興趣
 -  **極速領域/QQ飛車**
 -  **League of Legends** (LOL)
 -  **荒野亂鬥** 
-
 <!--
 **shinshinchang/shinshinchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
